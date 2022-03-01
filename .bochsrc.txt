@@ -1,0 +1,9 @@
+romimage:    file=/home/liwinux/Downloads/bochs-2.7/bios/BIOS-bochs-latest
+vgaromimage: file=/home/liwinux/Downloads/bochs-2.7/bios/VGABIOS-lgpl-latest
+floppya:     1_44=/home/liwinux/Desktop/kernel/boot.bin, status=inserted
+boot:        floppy
+log:         zygomatic.log
+error:       action=report
+info:        action=report
+magic_break: enabled=1
+display_library: x, options="gui_debug"

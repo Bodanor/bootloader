@@ -1,0 +1,6 @@
+bochslog.txt
+boot.bin
+bootloader.o
+boot.bin.lock
+bx_enh_dbg.ini
+zygomatic.log
